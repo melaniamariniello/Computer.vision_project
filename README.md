@@ -1,2 +1,1 @@
-# cv_code
- 
+Sign Language detection software
